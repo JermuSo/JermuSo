@@ -6,3 +6,4 @@ Dreaming of being a data analyst someday.
 
 To be continued...
 
+https://gitlab.labranet.jamk.fi/AB6802
